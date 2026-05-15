@@ -1,0 +1,8 @@
+; 贝利亚线 第5章：黑暗反噬
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand2.webp -left -next;
+WebGAL:贝利亚的黑暗能量再次失控，GDK主动出手帮他压制。;
+贝利亚:你为什么不走？
+GDK:因为我想试着理解你。
+choose:继续压制反噬:06_bailiya_revolt.txt|寻找星尘精灵:06_bailiya_revolt.txt;

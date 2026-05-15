@@ -1,0 +1,13 @@
+bgm:s_TrueEnd.mp3;
+changeBg:bg_observatory.webp -next;
+changeFigure:Bailiya_stand.webp -left -next;
+卷着细碎的星尘掠过观测台的边缘，明与暗的星流终于褪去缠斗的戾气。;
+changeFigure:GDK_stand.webp -right -next;
+GDK:(掌心浮起暖金色的明尘)我们的共识从来不是消除彼此的差异。;
+changeFigure: -next;
+奶龙:(笑着晃着指尖的光)所以我们要共生，做彼此的锚点。;
+changeFigure: -next;
+贝利亚:(眼底卸下重担后的坚定)我不会再让暗尘失控。你们就是我与光明之间的桥。;
+changeFigure: -next;
+人并肩站在观测台，看着远处的星系渐渐苏醒。;
+title:;

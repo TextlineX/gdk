@@ -1,0 +1,8 @@
+; 独立线 第5章：力量觉醒
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand2.webp -left -next;
+WebGAL:GDK逐步解锁星尘力量，理解平衡宇宙的使命。;
+星尘精灵:你不需要任何人来定义你。
+GDK:那我就走自己的路。
+choose:继续前往星尘域:06_ne_path.txt|回头看一眼城堡:06_ne_path.txt;

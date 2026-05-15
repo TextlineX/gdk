@@ -1,0 +1,12 @@
+bgm:s_Neutral.mp3;
+changeBg:bg_field.webp -next;
+changeFigure:GDK_stand.webp -right -next;
+紫色的星尘雾霭像流动的纱幔漫过穹顶，背景里悬浮的碎星顺着无形的星轨缓缓旋转，每一粒都裹着朦胧的银辉。;
+changeFigure:Fairy_normal.webp -center -next;
+星尘精灵:(声音清透如水晶相击，翅膀垂落时带着一丝疲惫的弧度)我是星尘族最后的守护灵。;
+changeFigure:Jide_stand.webp -center -next;
+捷德:(目光落在GDK手腕上的淡金纹路)你身上的力量，尚未完全觉醒。;
+changeFigure: -next;
+星尘精灵:(声音带着急切)追兵来了！;
+changeFigure: -next;
+choose:直面追兵:06_ne_path.txt|先治愈同伴:06_ne_path.txt;

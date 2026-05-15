@@ -1,0 +1,8 @@
+; 贝利亚线 第6章：旧部叛乱
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand.webp -left -next;
+WebGAL:黑暗使者绑走GDK，试图逼出贝利亚的黑暗本性。;
+贝利亚:放开她。
+GDK:别为了我，再把自己推回黑暗里。
+choose:与旧部对抗:07_bailiya_rescue.txt|压制黑暗先救人:07_bailiya_rescue.txt;

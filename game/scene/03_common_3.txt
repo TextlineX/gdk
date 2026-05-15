@@ -1,0 +1,10 @@
+bgm:s_Castle.mp3;
+changeBg:bg_field.webp -next;
+changeFigure:Nailong_stand.webp -left -next;
+裙少女站在城堡露台中央，星尘在指尖缓缓凝聚。三条路摆在她面前——;
+选择，将决定所有人的命运。;
+changeFigure:Fairy_normal.webp -center -next;
+星尘精灵:此刻的抉择，将决定三个人的命运。;
+changeFigure: -next;
+choose:跟着奶龙逃离城堡:04_nailong_escape.txt|留在城堡试着理解贝利亚:04_bailiya_thaw.txt|独自离开寻找自我:04_ne_path.txt;
+changeFigure: -next;

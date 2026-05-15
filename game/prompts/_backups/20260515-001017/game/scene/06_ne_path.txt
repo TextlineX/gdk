@@ -1,0 +1,7 @@
+; 独立线 第6章：切断牵绊
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand.webp -left -next;
+WebGAL:GDK选择与奶龙和贝利亚保持距离，专注于自己的使命。;
+GDK:谢谢你们，但我不能停在这里。
+choose:继续向前:07_ne_path.txt|不再回头:07_ne_path.txt;

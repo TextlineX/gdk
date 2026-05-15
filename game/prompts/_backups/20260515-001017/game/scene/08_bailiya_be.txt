@@ -1,0 +1,6 @@
+; 贝利亚线 BE
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+WebGAL:贝利亚压制住了黑暗，却也把GDK困得更深。;
+GDK:如果爱只剩下牢笼，那就不是爱了。
+贝利亚:......别离开我。

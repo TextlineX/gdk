@@ -1,0 +1,5 @@
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+setAnimation:enter-from-left -target=fig-left -next;
+紫星尘铺满夏夜露台，晚风卷着栀子甜香漫过肩颈，远处楼群的灯火揉碎在眼底，连空气都裹着松弛的慵懒。;
+choose:开始游戏:01_common_1.txt;

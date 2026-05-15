@@ -1,0 +1,6 @@
+; 贝利亚线 HE
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+WebGAL:GDK净化贝利亚的黑暗，三人共同守护宇宙。;
+贝利亚:这一次，我会学着尊重你。
+GDK:我们一起走下去。

@@ -1,0 +1,11 @@
+; 故事入口
+bgm:s_Title.mp3;
+unlockBgm:s_Title.mp3 -name=星尘告白：错位的温柔;
+intro:星尘告白|错位的温柔;
+changeBg:bg.webp -next;
+unlockCg:bg.webp -name=星尘初夜;
+changeFigure:stand.webp -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+WebGAL:这一版先把故事拆成共通线和分支线，后续再补完整台词。;
+miniAvatar:miniavatar.webp;
+choose:开始故事:01_common_1.txt|直接进入分支点:03_common_3.txt;

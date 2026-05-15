@@ -1,0 +1,5 @@
+; 独立线 NE
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+WebGAL:GDK独自守护宇宙平衡，成为孤独守护者。;
+GDK:我会守住这里。

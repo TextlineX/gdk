@@ -1,0 +1,12 @@
+bgm:s_Title.mp3;
+unlockBgm:s_Title.mp3 -name=星尘告白：错位的温柔;
+intro:星尘告白|错位的温柔;
+changeBg:bg.webp -next;
+unlockCg:bg.webp -name=星尘初夜;
+changeFigure:stand.webp -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+text:【淡紫星尘铺满夏夜露台，晚风卷着栀子甜香漫过肩颈。】;
+text:【白裙少女的身影从左侧缓步走入，发梢沾着细碎星光，指尖轻抵栏杆，目光落向你时，像一场提前写好却偏航的相遇。】;
+miniAvatar:miniavatar.webp;
+choose:开启共通线序章:01_common_1.txt|直接进入分支节点:03_common_3.txt;
+WebGAL:后续将补充完整台词，当前开放核心剧情路径选择。;

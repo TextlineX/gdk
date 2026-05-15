@@ -1,0 +1,8 @@
+; 贝利亚线 第4章：创伤初探
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand.webp -left -next;
+WebGAL:GDK开始理解贝利亚的过往，贝利亚也尝试尊重她的意愿。;
+GDK:我想听你亲口说。
+贝利亚:......你真的要听吗？
+choose:继续了解他的过去:05_bailiya_recoil.txt|先陪他冷静下来:05_bailiya_recoil.txt;

@@ -1,0 +1,8 @@
+; 奶龙线 第6章：直面危机
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand2.webp -left -next;
+WebGAL:黑暗使者追上两人，奶龙爆发治愈能量，GDK第一次主动回应这份温柔。;
+奶龙:我会保护你。
+GDK:这一次，换我来治愈你。
+choose:回到贝利亚身边:07_nailong_return.txt|继续逃向星尘域:07_nailong_return.txt;

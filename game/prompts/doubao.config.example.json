@@ -1,0 +1,8 @@
+{
+  "base_url": "https://ark.cn-beijing.volces.com/api/v3",
+  "endpoint_path": "/responses",
+  "model": "doubao-seed-1-8-251228",
+  "api_key_env": "DOUBAO_API_KEY",
+  "temperature": 0.8,
+  "max_output_tokens": 4096
+}

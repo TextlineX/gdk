@@ -1,0 +1,9 @@
+; 第2章：闯入的温暖
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand2.webp -left -next;
+WebGAL:奶龙误闯城堡，用糖果和陪伴慢慢靠近GDK。;
+奶龙:吃点甜的吧，心情会好一些呀。
+GDK:......谢谢你。
+贝利亚:离她远一点。
+choose:接受奶龙的糖果:03_common_3.txt|先观察再回应:03_common_3.txt;

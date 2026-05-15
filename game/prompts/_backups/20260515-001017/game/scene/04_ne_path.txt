@@ -1,0 +1,7 @@
+; 独立线 第4章：独自前行
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand.webp -left -next;
+WebGAL:GDK开始独自探索星尘族身份，不再依赖任何人。;
+GDK:我想先知道，我自己到底是谁。
+choose:继续独自前行:05_ne_path.txt|拒绝两边的拉扯:05_ne_path.txt;

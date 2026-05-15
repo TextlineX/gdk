@@ -1,0 +1,8 @@
+; 奶龙线 第4章：逃亡之路
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand2.webp -left -next;
+WebGAL:GDK和奶龙离开城堡，贝利亚派出黑暗使者追捕。;
+奶龙:别怕，我会陪着你跑下去。
+GDK:这一次，我想自己做决定。
+choose:继续逃离:05_nailong_secret.txt|停下来确认心意:05_nailong_secret.txt;

@@ -1,0 +1,7 @@
+; 独立线 第7章：使命确认
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand2.webp -left -next;
+WebGAL:GDK彻底确认自己是星尘平衡的一部分。;
+GDK:这就是我该走的路。
+choose:接受孤独守护者的命运:08_ne_end.txt|留下一个告别:08_ne_end.txt;

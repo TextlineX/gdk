@@ -1,0 +1,7 @@
+; True End 预留
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+WebGAL:三人共生线的完整正文后续可以放在这里。;
+GDK:明暗星尘，终于回到了平衡。
+奶龙:那我们就一起守护吧。
+贝利亚:这一次，我不会再失控了。

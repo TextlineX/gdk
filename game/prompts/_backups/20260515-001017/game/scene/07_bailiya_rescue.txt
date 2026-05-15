@@ -1,0 +1,8 @@
+; 贝利亚线 第7章：救赎时刻
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand2.webp -left -next;
+WebGAL:GDK解锁星尘族力量，贝利亚也终于看清自己的创伤来源。;
+星尘精灵:平衡，不是压制某一边。
+贝利亚:原来我一直都在逃避。
+choose:用爱净化黑暗:08_bailiya_he.txt|用力量压制黑暗:08_bailiya_be.txt;

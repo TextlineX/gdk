@@ -1,0 +1,8 @@
+; 奶龙线 第7章：主动承担
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand.webp -left -next;
+WebGAL:GDK选择回到贝利亚身边，不是妥协，而是为了平衡宇宙。;
+贝利亚:你竟然还敢回来。
+GDK:我回来，是为了结束失衡。
+choose:劝说贝利亚放下黑暗:08_nailong_he.txt|与贝利亚彻底对抗:08_nailong_be.txt;

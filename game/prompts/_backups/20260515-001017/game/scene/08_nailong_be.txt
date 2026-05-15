@@ -1,0 +1,6 @@
+; 奶龙线 BE
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+WebGAL:贝利亚被黑暗吞噬，奶龙以最后的力量封印危机。;
+奶龙:别忘了，你不是一个人。
+GDK:我会记住你的。

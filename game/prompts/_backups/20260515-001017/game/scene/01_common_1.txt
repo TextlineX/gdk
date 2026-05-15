@@ -1,0 +1,9 @@
+; 第1章：星尘偶遇
+bgm:s_Title.mp3;
+changeBg:bg.webp -next;
+changeFigure:stand.webp -left -next;
+WebGAL:GDK在宇宙漂泊时遭遇袭击，被贝利亚救下。;
+贝利亚:你身上的星尘力量，很有意思。
+GDK:放开我，我不需要被你带走。
+miniAvatar:miniavatar.webp;
+choose:跟着贝利亚回城堡:02_common_2.txt|强行保持距离:02_common_2.txt;
